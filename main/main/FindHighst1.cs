@@ -44,7 +44,7 @@ namespace FindHighst
       }
         public void wl()
         {
-            foreach (double s inWaveLengt)
+            foreach (double s in WaveLengt)
             {
                 Console.WriteLine("{0}", s);
             }
