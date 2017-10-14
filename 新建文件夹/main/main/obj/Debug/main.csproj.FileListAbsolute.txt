@@ -1,0 +1,6 @@
+G:\1北科大博士\论文\编程\我的编程\main\main\bin\Debug\main.exe.config
+G:\1北科大博士\论文\编程\我的编程\main\main\bin\Debug\main.exe
+G:\1北科大博士\论文\编程\我的编程\main\main\bin\Debug\main.pdb
+G:\1北科大博士\论文\编程\我的编程\main\main\obj\Debug\main.csprojResolveAssemblyReference.cache
+G:\1北科大博士\论文\编程\我的编程\main\main\obj\Debug\main.exe
+G:\1北科大博士\论文\编程\我的编程\main\main\obj\Debug\main.pdb
